@@ -1,6 +1,6 @@
-print('-'*20)
+print('-'*21)
 print('Exercício recrutamento pessoal ACME')
-print('-'*20)
+print('-'*21)
 
 ListaNome = []
 ListaSexo = []
